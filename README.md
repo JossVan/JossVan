@@ -40,8 +40,29 @@ func GetBio() Bio {
 
 ### Herramientas y lenguajes:
 <p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-
+	<img src="/images/golang.png"alt="Golang" style="vertical-align:top; margin:4px">
+	<img src="/images/html.png"alt="HTML" style="vertical-align:top; margin:4px">
+	<img src="/images/css.png"alt="CSS" style="vertical-align:top; margin:4px">
+	<img src="/images/bootstrap.png"alt="Bootstrap" style="vertical-align:top; margin:4px">
+	<img src="/images/javascript.png"alt="javascript" style="vertical-align:top; margin:4px">
+	<img src="/images/jquery.png"alt="jquery" style="vertical-align:top; margin:4px">
+	<img src="/images/php.png"alt="PHP" style="vertical-align:top; margin:4px">
+	<img src="/images/angular.png"alt="Angular" style="vertical-align:top; margin:4px">
+	<img src="/images/ts.png"alt="ts" style="vertical-align:top; margin:4px">
+	<img src="/images/nodejs.png"alt="nodejs" style="vertical-align:top; margin:4px">
+	<img src="/images/npm.png"alt="NPM" style="vertical-align:top; margin:4px">
+	<img src="/images/csharp.png"alt="csharp" style="vertical-align:top; margin:4px">
+	<img src="/images/c++.png"alt="c++" style="vertical-align:top; margin:4px">
+	<img src="/images/java.png"alt="JAVA" style="vertical-align:top; margin:4px">
+	<img src="/images/python.png"alt="Phyton" style="vertical-align:top; margin:4px">
+	<img src="/images/docker.png"alt="docker" style="vertical-align:top; margin:4px">
+	<img src="/images/sql.png"alt="sql" style="vertical-align:top; margin:4px">
+	<img src="/images/mongodb.png"alt="mongodb" style="vertical-align:top; margin:4px">
+	<img src="/images/github.png"alt="github" style="vertical-align:top; margin:4px">
+	<img src="/images/gitlab.png"alt="gitlab" style="vertical-align:top; margin:4px">
+	<img src="/images/bitbucket.png"alt="bitbucket" style="vertical-align:top; margin:4px">
+	<img src="/images/aws.png"alt="AWS" style="vertical-align:top; margin:4px">
+	<img src="/images/google.png"alt="google" style="vertical-align:top; margin:4px">
 </p>
 <br/>
 
